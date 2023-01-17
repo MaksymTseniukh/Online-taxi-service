@@ -12,5 +12,8 @@
         <module name="untitled4" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="taxi-service" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
